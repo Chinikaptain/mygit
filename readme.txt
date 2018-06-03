@@ -1,1 +1,1 @@
-学习git：创建版本库一节
+学习git：创建版本库一节，git add 文件名；git commit -m "xxx"
